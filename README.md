@@ -2,9 +2,13 @@
 
 在接触 Elasticsearch之后，对它非常着迷。但由于目前国内并没有比较好的 Elasticsearch 语言书籍，而官方文档因为英文的缘故在一定程度上也为不少Elasticsearch初学者带来了一些学习上的困扰，为了方便大家完整的学习Elasticsearch，本人决定每天抽出一点时间来进行翻译官方文档的工作，并且以开源的形式免费分享给有需要的 Elasticsearch爱好者。
 
+## 当前版本
+
+**7.9.x**
+
 ## 翻译进度
 
-- [ ] [什么是Elasticsearch](/book/1/intro.md)
+- [ ] 一、[什么是Elasticsearch](/book/1/intro.md)
 
 ## 支持本文档
 
