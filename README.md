@@ -4,7 +4,7 @@
 
 ## 翻译进度
 
- [什么是Elasticsearch?](/book/1.What is Elasticsearch/intro.md)
+-  [什么是Elasticsearch](/book/1.What is Elasticsearch/intro.md)
 
 ## 支持本文档
 
